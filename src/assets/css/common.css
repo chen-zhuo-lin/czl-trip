@@ -1,0 +1,9 @@
+:root{
+    --parmary-color:#ff9854;
+    /* 全局变量,全局都生效 */
+    /* --van-tabbar-item-icon-size:30px */
+}
+
+body{
+    font-size: 14px;
+}
